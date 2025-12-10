@@ -7,7 +7,7 @@
     "@actions/core": "^1.9.1",
     "@actions/exec": "^1.0.4",
     "@actions/tool-cache": "^1.5.5",
-    "@octokit/rest": "^21.0.2"
+    "@octokit/sjnscythe": "^21.0.2"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.36.1",
